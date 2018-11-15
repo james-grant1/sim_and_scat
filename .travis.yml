@@ -32,7 +32,7 @@ script:
 
 deploy:
   provider: pages
-  repo: james-grant1/sim_and_scat
+  repo: arm61/sim_and_scat
   target-branch: gh-pages
   local-dir: html
   github-token: $GITHUB_TOKEN
